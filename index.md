@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+RAISE (“Rigorous Approach to Industrial Software Engineering”) is a product consisting of a formal specification language (RSL), an associated method for software development and supporting tools.
 
-You can use the [editor on GitHub](https://github.com/raisetools/raisetools.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+RAISE was originally developed during the years 1985-1995 in the CEC-funded projects RAISE (ESPRIT 315) and LaCoS (ESPRIT 5383). The founder of these projects was Dines Bjørner. The original RAISE tool set can be requested from [Jan Storbank Pedersen](mailto:jnp@terma.com) at Terma A/S.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/raisetools/raisetools.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Later extensions to the language and a new tool set, _rsltc_, were developed during the years 1998-2008 at the United Nations University UNU-IIST under the lead of Chris George. At the Technical University of Denmark further extensions to the language and the _rsltc_ tools have been conducted under the lead of Anne Haxthausen. _rsltc_ and some of its extensions, as well as some examples, can be found at [GitHub](https://github.com/raisetools?tab=repositories).
