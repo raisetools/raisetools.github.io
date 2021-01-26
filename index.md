@@ -1,4 +1,4 @@
-RAISE (“Rigorous Approach to Industrial Software Engineering”) is a product consisting of a formal specification language (RSL), an associated method for software development and supporting tools.
+RAISE (“Rigorous Approach to Industrial Software Engineering”) is a product consisting of a formal specification language (RSL), an associated method for software development, and supporting tools.
 
 RAISE was originally developed during the years 1985-1995 in the CEC-funded projects RAISE (ESPRIT 315) and LaCoS (ESPRIT 5383). The founder of these projects was Dines Bjørner. The original RAISE tool set can be requested from [Jan Storbank Pedersen](mailto:jnp@terma.com) at Terma A/S.
 
