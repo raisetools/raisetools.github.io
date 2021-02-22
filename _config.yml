@@ -16,7 +16,7 @@
 title: RAISE
 email: raisetools@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-The RAISE specification language, method, and tools
+  The RAISE specification language, method, and tools
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  raisetools
