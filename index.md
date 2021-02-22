@@ -18,7 +18,7 @@ conducted under the lead of Anne Haxthausen.
 
   -- [https://github.com/raisetools/rsltc](https://github.com/raisetools/rsltc)
 
-  -- _User guide_ [pdf](https://github.com/raisetools/rsltc/blob/master/user_guide/ug.pdf), [html](material/documentation/user_guide/ug.html), [sources](material/documentation/user_guide.zip)
+  -- _User guide_ [pdf](material/documentation/ug.pdf), [html](material/documentation/user_guide/ug.html), [html sources](material/documentation/user_guide.zip)
 
 * The RSL* tools (prototype extensions of RSLTC)
 
