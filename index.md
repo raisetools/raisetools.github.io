@@ -2,7 +2,7 @@ RAISE (“Rigorous Approach to Industrial Software Engineering”) is a product 
 
 RAISE is a formal method, inspired by [VDM](https://en.wikipedia.org/wiki/Vienna_Development_Method), but combining model-oriented specification (as in VDM) with algebraic specification, CSP-like concurrency, and a module concept. The intended use of RAISE is specification of systems, typically software systems, as part of their development.
 
-### Prohect History
+### Project History
 
 RAISE was originally developed during the years 1985-1995 in the CEC-funded projects RAISE (ESPRIT 315) and LaCoS (ESPRIT 5383). The founder of these projects was Dines Bjørner. 
 Many people participated over time. The core people left when the final language, method, and toolset were developed were Dines Bjørner, Chris George, Peter Haff, Klaus Havelund, Anne Haxthausen, Robert Milne, Claus Bendix Nielsen, Jan Storbank Pedersen, Søren Prehn, and Kim Ritter Wagner.
