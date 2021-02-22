@@ -10,27 +10,26 @@ conducted under the lead of Anne Haxthausen.
 
 ### Tools
 
-#### The RSLTC tool
+* The RSLTC tool
 
-[https://github.com/raisetools/rsltc](https://github.com/raisetools/rsltc)
+  -- [https://github.com/raisetools/rsltc](https://github.com/raisetools/rsltc)
 
-[User guide](https://github.com/raisetools/rsltc/blob/master/user_guide/ug.pdf)
+  -- [User guide](https://github.com/raisetools/rsltc/blob/master/user_guide/ug.pdf)
 
-#### The RSL* tools (prototype extensions of RSLTC)
+* The RSL* tools (prototype extensions of RSLTC)
 
-[https://github.com/raisetools/rslstar](https://github.com/raisetools/rslstar)
+  -- [https://github.com/raisetools/rslstar](https://github.com/raisetools/rslstar)
 
-#### The original RAISE tool set
-
-The original RAISE tool set can be requested from [Jan Storbank Pedersen](mailto:jnp@terma.com) at Terma A/S. However, it is recommended to use one of the newer tools above, since the original tooks e.g. only run on SUN stations.
+* The original RAISE tool set
+  -- The original RAISE tool set can be requested from [Jan Storbank Pedersen](mailto:jnp@terma.com) at Terma A/S. However, it is recommended to use one of the newer tools above, since the original tooks e.g. only run on SUN stations.
 
 ### Language and Method Documentation
 
-[The RAISE Specification Language](material/documentation/raise-language.pdf)
+* [The RAISE Specification Language](material/documentation/raise-language.pdf)
 
-[The RAISE Development Method](material/documentation/raise-method.pdf)
+* [The RAISE Development Method](material/documentation/raise-method.pdf)
 
 ### Reports
 
-[Mostly Dines Bjørner’s RAISE-related Documents](material/papers/bjorner-raise-web.pdf) by Dines Bjørner, 2021
+* [Mostly Dines Bjørner’s RAISE-related Documents](material/papers/bjorner-raise-web.pdf) by Dines Bjørner, 2021
 
