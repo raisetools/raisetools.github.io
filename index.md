@@ -21,7 +21,7 @@ conducted under the lead of Anne Haxthausen.
   -- [https://github.com/raisetools/rslstar](https://github.com/raisetools/rslstar)
 
 * The original RAISE tool set
-  -- The original RAISE tool set can be requested from [Jan Storbank Pedersen](mailto:jnp@terma.com) at Terma A/S. However, it is recommended to use one of the newer tools above, since the original tooks e.g. only run on SUN stations.
+  -- The original RAISE tool set can be requested from [Jan Storbank Pedersen](mailto:jnp@terma.com) at Terma A/S. However, it is recommended to use one of the newer tools above, since e.g. the original tool set only runs on SUN stations.
 
 ### Language and Method Documentation
 
