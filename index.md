@@ -5,7 +5,23 @@ RAISE is a formal method, inspired by [VDM](https://en.wikipedia.org/wiki/Vienna
 ### Project History
 
 RAISE was originally developed during the years 1985-1995 in the CEC-funded projects RAISE (ESPRIT 315) and LaCoS (ESPRIT 5383). The founder of these projects was Dines Bjørner. 
-Many people participated over time. The core people left when the final language, method, and toolset were developed were Dines Bjørner, Chris George, Peter Haff, Klaus Havelund, Anne Haxthausen, Robert Milne, Claus Bendix Nielsen, Jan Storbank Pedersen, Søren Prehn, and Kim Ritter Wagner.
+Many people participated over time. The core people were Dines Bjørner,
+Tony Evans, 
+Chris George,
+Patrick Goldsack,
+Dave Grosvenor, 
+Peter Haff, 
+Klaus Havelund, 
+Anne Haxthausen,
+Steven Hughes, 
+Hamid Lesan,
+Erik Meiling,
+Robert Milne, 
+Claus Bendix Nielsen, 
+Steen Ulrik Palm,
+Jan Storbank Pedersen, 
+Søren Prehn, 
+and Kim Ritter Wagner.
 
 Later extensions to the language and a new tool set, _RSLTC_, were developed during the years 1998-2008 at the United Nations University UNU-IIST under the lead of Chris George. 
 
