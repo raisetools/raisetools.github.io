@@ -18,7 +18,7 @@ conducted under the lead of Anne Haxthausen.
 
   -- [https://github.com/raisetools/rsltc](https://github.com/raisetools/rsltc)
 
-  -- User guide [pdf](https://github.com/raisetools/rsltc/blob/master/user_guide/ug.pdf), [html](material/documentation/user-guide/ug.html), [zip](material/documentation/user-guide.zip)
+  -- _User guide_ [pdf](https://github.com/raisetools/rsltc/blob/master/user_guide/ug.pdf), [html](material/documentation/user_guide/ug.html), [sources](material/documentation/user_guide.zip)
 
 * The RSL* tools (prototype extensions of RSLTC)
 
@@ -29,11 +29,11 @@ conducted under the lead of Anne Haxthausen.
 
 ### Language and Method Documentation
 
-* The RAISE Specification Language [pdf](material/documentation/raise-language.pdf)
+* _The RAISE Specification Language_ [pdf](material/documentation/raise-language.pdf)
 
-* The RAISE Development Method [pdf](material/documentation/raise-method.pdf)
+* _The RAISE Development Method_ [pdf](material/documentation/raise-method.pdf)
 
 ### Reports
 
-* Mostly Dines Bjørner’s RAISE-related Documents [pdf](material/papers/bjorner-raise-web.pdf) by Dines Bjørner, 2021
+* _Mostly Dines Bjørner’s RAISE-related Documents_ [pdf](material/papers/bjorner-raise-web.pdf), by Dines Bjørner, 2021
 
