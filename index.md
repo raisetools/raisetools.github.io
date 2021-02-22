@@ -1,11 +1,15 @@
-RAISE (“Rigorous Approach to Industrial Software Engineering”) is a product consisting of a formal specification language (The RAISE Specification Language, RSL), an associated method for software development, and supporting tools.
+RAISE (“Rigorous Approach to Industrial Software Engineering”) is a product consisting of a formal specification language (The RAISE Specification Language, RSL), an associated method for software development, and supporting tools. 
+
+RAISE is a formal method, inspired by [VDM](https://en.wikipedia.org/wiki/Vienna_Development_Method), but combining model-oriented specification (as in VDM) with algebraic specification, CSP-like concurrency, and a module concept. The intended use of RAISE is specification of systems, typically software systems, as part of their development.
 
 ### Prohect History
 
 RAISE was originally developed during the years 1985-1995 in the CEC-funded projects RAISE (ESPRIT 315) and LaCoS (ESPRIT 5383). The founder of these projects was Dines Bjørner. 
 Many people participated over time. The core people left when the final language, method, and toolset were developed were Dines Bjørner, Chris George, Peter Haff, Klaus Havelund, Anne Haxthausen, Robert Milne, Claus Bendix Nielsen, Jan Storbank Pedersen, Søren Prehn, and Kim Ritter Wagner.
 
-Later extensions to the language and a new tool set, _RSLTC_, were developed during the years 1998-2008 at the United Nations University UNU-IIST under the lead of Chris George. At the Technical University of Denmark further extensions, under the name _RSL*_ to the language and the _RSLTC_ tools have been developed by Signe Geisler
+Later extensions to the language and a new tool set, _RSLTC_, were developed during the years 1998-2008 at the United Nations University UNU-IIST under the lead of Chris George. 
+
+At the Technical University of Denmark further extensions, under the name _RSL*_ to the language and the _RSLTC_ tools have been developed by Signe Geisler
 conducted under the lead of Anne Haxthausen. 
 
 ### Tools
